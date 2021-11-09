@@ -6,3 +6,5 @@ Steps!
 3. Import SQL file in it.
 4. Run server localhost/dets
 5. Done.
+
+![Daily-Expense-Tracker-Dashboard-1024x467](https://user-images.githubusercontent.com/77581464/140939444-656146fe-2615-4792-a6b7-2a222a42d280.png)
